@@ -1,0 +1,165 @@
+
+Name                                                         AppID                                                                                                                                 
+----                                                         -----                                                                                                                                 
+Blend for Visual Studio 2022                                 Blend.e0d28aab                                                                                                                        
+Browse GdPicture Directory                                   C:\New Folder                                                                                                                         
+Read Me!                                                     C:\New Folder\readme.txt                                                                                                              
+Browse Samples (Source Code)                                 C:\New Folder\Samples                                                                                                                 
+Browse Samples (Binaries)                                    C:\New Folder\Samples\Bin                                                                                                             
+Demo Source Code                                             C:\Users\Public\Documents\DevExpress Demos 18.2\DevExtreme                                                                            
+Python 3.11 Manuals (64-bit)                                 C:\Users\quishpes\AppData\Local\Programs\Python\Python311\Doc\html\index.html                                                         
+Python 3.11 (64-bit)                                         C:\Users\quishpes\AppData\Local\Programs\Python\Python311\python.exe                                                                  
+Eclipse IDE for Enterprise Java and Web Developers - 2022-09 C:\Users\quishpes\eclipse\jee-2022-09\eclipse\eclipse.exe                                                                             
+Google Chrome                                                Chrome                                                                                                                                
+draw.io                                                      com.jgraph.drawio.desktop                                                                                                             
+Postman                                                      com.squirrel.Postman.Postman                                                                                                          
+Microsoft Teams                                              com.squirrel.Teams.Teams                                                                                                              
+Demo Center 18.2                                             Components_18_2_Demo_Center_18_2                                                                                                      
+Project Converter 18.2                                       Components_18_2_Project_Converter_18_2                                                                                                
+DevExtreme Demos 18.2                                        DevExtreme_18_2_DevExtreme_Demos_18_2                                                                                                 
+Docker Desktop                                               Docker.DockerForWindows.Settings                                                                                                      
+Reference Documentation                                      https://docs.oracle.com/javase/11/docs                                                                                                
+Git FAQs (Frequently Asked Questions)                        https://github.com/git-for-windows/git/wiki/FAQ                                                                                       
+Visit Java.com                                               https://java.com/                                                                                                                     
+Get Help                                                     https://java.com/help                                                                                                                 
+Node.js website                                              https://nodejs.org/                                                                                                                   
+Node.js documentation                                        https://nodejs.org/download/release/v14.17.5/docs/api/                                                                                
+Windows OpenSSL Website                                      https://slproweb.com/products/Win32OpenSSL.html                                                                                       
+Official OpenSSL Website                                     https://www.openssl.org/                                                                                                              
+Official OpenSSL Documentation                               https://www.openssl.org/docs/                                                                                                         
+Install Additional Tools for Node.js                         Microsoft.AutoGenerated.{04770C2D-34E6-BE94-EFAD-FA817237D6E9}                                                                        
+Git Bash                                                     Microsoft.AutoGenerated.{0FDD9C6B-656B-0F1F-AB08-B1CDBB7067B3}                                                                        
+Uninstall                                                    Microsoft.AutoGenerated.{132A77BA-8EB5-F3E2-B343-6D49DC240D8C}                                                                        
+Git CMD                                                      Microsoft.AutoGenerated.{29591C0F-7C09-B655-C0EB-8544FCA7D1DE}                                                                        
+Developer Command Prompt for VS 2022                         Microsoft.AutoGenerated.{3F01F6C3-3A60-266C-0569-4E7124438FA8}                                                                        
+Node.js command prompt                                       Microsoft.AutoGenerated.{499EE7CA-7ED5-EBC9-AB09-80DC143D7B90}                                                                        
+Python 3.11 Module Docs (64-bit)                             Microsoft.AutoGenerated.{4C0BB0E5-8CA2-0555-36E9-2ED9ABF9E0B9}                                                                        
+Start Experimental Instance of Visual Studio 2022            Microsoft.AutoGenerated.{4DA7B117-13B3-8C71-DC5B-1349D9E26352}                                                                        
+Uninstall Node.js                                            Microsoft.AutoGenerated.{72F2105C-0D42-F2D5-0C21-99988A5DAFE5}                                                                        
+Monitor de rendimiento                                       Microsoft.AutoGenerated.{8AA47365-B2B3-1961-69EB-F866E376B12F}                                                                        
+Administraci?n de equipos                                    Microsoft.AutoGenerated.{8ABD94FB-E7D6-84A6-A997-C918EDDE0AE5}                                                                        
+Administrador de tareas                                      Microsoft.AutoGenerated.{923DD477-5846-686B-A659-0FCCD73851A8}                                                                        
+Reset the Visual Studio 2022 Experimental Instance           Microsoft.AutoGenerated.{937880D4-4E19-CFA0-EE0F-F1995210816A}                                                                        
+Debuggable Package Manager                                   Microsoft.AutoGenerated.{96690F80-0B7F-841E-E0DB-CC38AC5C839F}                                                                        
+Check For Updates                                            Microsoft.AutoGenerated.{A3E10BBA-C2A1-E0F3-7C97-5D5521119B40}                                                                        
+Visor de eventos                                             Microsoft.AutoGenerated.{BB044BFD-25B7-2FAA-22A8-6371A93E0456}                                                                        
+Directiva de seguridad local                                 Microsoft.AutoGenerated.{BD3F924E-55FB-A1BA-9DE6-B50F9F2460AC}                                                                        
+Programador de tareas                                        Microsoft.AutoGenerated.{C1C6F8AC-40A3-0F5C-146F-65A9DC70BBB4}                                                                        
+Developer PowerShell for VS 2022                             Microsoft.AutoGenerated.{C75267C0-B3B0-9433-A9B2-C3FB0D130895}                                                                        
+Monitor de recursos                                          Microsoft.AutoGenerated.{C804BBA7-FA5F-CBF7-8B55-2096E5F972CB}                                                                        
+Reconocimiento de voz de Windows                             Microsoft.AutoGenerated.{DAA168DE-4306-C8BC-8C11-B596240BDDED}                                                                        
+DTS Audio Control                                            Microsoft.AutoGenerated.{DFB378B7-4CE5-DB90-5EE3-D988FBCD2D3F}                                                                        
+About Java                                                   Microsoft.AutoGenerated.{ED1B95B9-4031-D3C3-673E-568ECBA26559}                                                                        
+IDLE (Python 3.11 64-bit)                                    Microsoft.AutoGenerated.{F8EB1E29-AC13-559D-E003-CE34DA521DF2}                                                                        
+Internet Explorer                                            Microsoft.InternetExplorer.Default                                                                                                    
+Outlook 2016                                                 Microsoft.Office.OUTLOOK.EXE.16                                                                                                       
+OneDrive                                                     Microsoft.SkyDrive.Desktop                                                                                                            
+Visual Studio Installer                                      Microsoft.VisualStudio.Installer                                                                                                      
+Visual Studio Code                                           Microsoft.VisualStudioCode                                                                                                            
+Herramientas administrativas de Windows                      Microsoft.Windows.AdministrativeTools                                                                                                 
+Este equipo                                                  Microsoft.Windows.Computer                                                                                                            
+Panel de control                                             Microsoft.Windows.ControlPanel                                                                                                        
+Explorador de archivos                                       Microsoft.Windows.Explorer                                                                                                            
+Windows Media Player                                         Microsoft.Windows.MediaPlayer32                                                                                                       
+Conexi?n a Escritorio remoto                                 Microsoft.Windows.RemoteDesktop                                                                                                       
+Ejecutar                                                     Microsoft.Windows.Shell.RunDialog                                                                                                     
+Microsoft Edge                                               MSEdge                                                                                                                                
+AnyDesk                                                      prokzult ad                                                                                                                           
+Visual Studio 2022                                           VisualStudio.e0d28aab                                                                                                                 
+Xerox Notifications                                          Xerox.ToastNotificationService                                                                                                        
+Preferencias de idioma de Office 2016                        zn=BV6!!!!4!!!!MKKSkSetLanguageFiles<                                                                                                 
+Centro de carga de Office 2016                               zn=BV6!!!!4!!!!MKKSkWxpFiles<                                                                                                         
+Zoom                                                         zoom.us.Zoom Video Meetings                                                                                                           
+Mapa de caracteres                                           {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\charmap.exe                                                                                    
+Liberador de espacio en disco                                {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cleanmgr.exe                                                                                   
+S?mbolo del sistema                                          {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe                                                                                        
+Servicios de componentes                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\comexp.msc                                                                                     
+Desfragmentar y optimizar unidades                           {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\dfrgui.exe                                                                                     
+Iniciador iSCSI                                              {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\iscsicpl.exe                                                                                   
+Lupa                                                         {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\magnify.exe                                                                                    
+Diagn?stico de memoria de Windows                            {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\MdSched.exe                                                                                    
+Configuraci?n del sistema                                    {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msconfig.exe                                                                                   
+Informaci?n del sistema                                      {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msinfo32.exe                                                                                   
+Paint                                                        {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\mspaint.exe                                                                                    
+Narrador                                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\narrator.exe                                                                                   
+Bloc de notas                                                {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\notepad.exe                                                                                    
+Or?genes de datos ODBC (64 bits)                             {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\odbcad32.exe                                                                                   
+Teclado en pantalla                                          {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\osk.exe                                                                                        
+Administraci?n de impresi?n                                  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\printmanagement.msc                                                                            
+Grabaci?n de acciones de usuario                             {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\psr.exe                                                                                        
+Asistencia r?pida                                            {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\quickassist.exe                                                                                
+Unidad de recuperaci?n                                       {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\RecoveryDrive.exe                                                                              
+Servicios                                                    {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\services.msc                                                                                   
+Herramienta Recortes                                         {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\SnippingTool.exe                                                                               
+Windows Defender Firewall con seguridad avanzada             {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WF.msc                                                                                         
+Fax y Esc?ner de Windows                                     {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WFS.exe                                                                                        
+Windows PowerShell                                           {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe                                                          
+Windows PowerShell ISE                                       {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\PowerShell_ISE.exe                                                      
+Android Studio                                               {6D809377-6AF0-444B-8957-A3773F02200E}\Android\Android Studio\bin\studio64.exe                                                        
+Math Input Panel                                             {6D809377-6AF0-444B-8957-A3773F02200E}\Common Files\Microsoft Shared\Ink\mip.exe                                                      
+Cylance PROTECT                                              {6D809377-6AF0-444B-8957-A3773F02200E}\Cylance\Desktop\CylanceUI.exe                                                                  
+Git GUI                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\Git\cmd\git-gui.exe                                                                            
+Git Release Notes                                            {6D809377-6AF0-444B-8957-A3773F02200E}\Git\ReleaseNotes.html                                                                          
+Configure Java                                               {6D809377-6AF0-444B-8957-A3773F02200E}\Java\jre1.8.0_351\bin\javacpl.exe                                                              
+Excel 2016                                                   {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\EXCEL.EXE                                                            
+OneDrive para la Empresa                                     {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\GROOVE.EXE                                                           
+Registro de telemetr?a para Office 2016                      {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\msoev.exe                                                            
+Panel de telemetr?a para Office 2016                         {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\msotd.exe                                                            
+Publisher 2016                                               {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\MSPUB.EXE                                                            
+OneNote 2016                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\ONENOTE.EXE                                                          
+PowerPoint 2016                                              {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\POWERPNT.EXE                                                         
+Word 2016                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\WINWORD.EXE                                                          
+Node.js                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\nodejs\node.exe                                                                                
+Notepad++                                                    {6D809377-6AF0-444B-8957-A3773F02200E}\Notepad++\notepad++.exe                                                                        
+Win64 OpenSSL Command Prompt                                 {6D809377-6AF0-444B-8957-A3773F02200E}\OpenSSL-Win64\start.bat                                                                        
+Uninstall OpenSSL                                            {6D809377-6AF0-444B-8957-A3773F02200E}\OpenSSL-Win64\unins000.exe                                                                     
+OutSystems Service Studio 11                                 {6D809377-6AF0-444B-8957-A3773F02200E}\OutSystems\Service Studio 11\Service Studio\ServiceStudio.exe                                  
+WordPad                                                      {6D809377-6AF0-444B-8957-A3773F02200E}\Windows NT\Accessories\wordpad.exe                                                             
+Que hay de nuevo en la ?ltima versi?n                        {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\Novedades.txt                                                                           
+Manual RAR para consola                                      {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\Rar.txt                                                                                 
+Ayuda WinRAR                                                 {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\winrar.chm                                                                              
+WinRAR                                                       {6D809377-6AF0-444B-8957-A3773F02200E}\WinRAR\WinRAR.exe                                                                              
+Database Engine Tuning Advisor 18                            {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\DTASHELL.EXE                                 
+Analysis Services Deployment Wizard 18                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\IDE\Microsoft.AnalysisServices.Deployment.exe
+Microsoft SQL Server Management Studio 18                    {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\IDE\Ssms.exe                                 
+SQL Server Profiler 18                                       {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Microsoft SQL Server Management Studio 18\Common7\PROFILER.EXE                                 
+What's New in PowerDesigner 16.1                             {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Sybase\PowerDesigner 16\Documentation\Printable Docs\new_features.pdf                          
+PowerDesigner                                                {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Sybase\PowerDesigner 16\pdshell16.exe                                                          
+ODBC Data Sources (32-bit)                                   {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\odbcad32.exe                                                                                   
+Windows PowerShell (x86)                                     {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WindowsPowerShell\v1.0\powershell.exe                                                          
+Windows PowerShell ISE (x86)                                 {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\WindowsPowerShell\v1.0\PowerShell_ISE.exe                                                      
+Editor del Registro                                          {F38BF404-1D43-42F2-9305-67DE0B28FC23}\regedit.exe                                                                                    
+Configuraci?n                                                windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel                                                   
+C?mara                                                       Microsoft.WindowsCamera_8wekyb3d8bbwe!App                                                                                             
+Calculadora                                                  Microsoft.WindowsCalculator_8wekyb3d8bbwe!App                                                                                         
+Grabadora de voz                                             Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe!App                                                                                      
+Recorte y anotaci?n                                          Microsoft.ScreenSketch_8wekyb3d8bbwe!App                                                                                              
+Portal de realidad mixta                                     Microsoft.MixedReality.Portal_8wekyb3d8bbwe!App                                                                                       
+Microsoft Edge                                               Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge                                                                                   
+Visor 3D                                                     Microsoft.Microsoft3DViewer_8wekyb3d8bbwe!Microsoft.Microsoft3DViewer                                                                 
+Paint 3D                                                     Microsoft.MSPaint_8wekyb3d8bbwe!Microsoft.MSPaint                                                                                     
+Centro de opiniones                                          Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe!App                                                                                        
+Groove M?sica                                                Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic                                                                                 
+Correo                                                       microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail                                                          
+Calendario                                                   microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar                                                      
+Cortana                                                      Microsoft.549981C3F5F10_8wekyb3d8bbwe!App                                                                                             
+Xbox Console Companion                                       Microsoft.XboxApp_8wekyb3d8bbwe!Microsoft.XboxApp                                                                                     
+Seguridad de Windows                                         Microsoft.Windows.SecHealthUI_cw5n1h2txyewy!SecHealthUI                                                                               
+Fotos                                                        Microsoft.Windows.Photos_8wekyb3d8bbwe!App                                                                                            
+Editor de v?deo                                              Microsoft.Windows.Photos_8wekyb3d8bbwe!SecondaryEntry                                                                                 
+Solitaire Collection                                         Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe!App                                                                              
+Mapas                                                        Microsoft.WindowsMaps_8wekyb3d8bbwe!App                                                                                               
+OneNote for Windows 10                                       Microsoft.Office.OneNote_8wekyb3d8bbwe!microsoft.onenoteim                                                                            
+Recomendaciones                                              Microsoft.Getstarted_8wekyb3d8bbwe!App                                                                                                
+Notas r?pidas                                                Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App                                                                                      
+Office                                                       Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub                                                               
+Obtener ayuda                                                Microsoft.GetHelp_8wekyb3d8bbwe!App                                                                                                   
+Pel?culas y TV                                               Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo                                                                                 
+Reloj                                                        Microsoft.WindowsAlarms_8wekyb3d8bbwe!App                                                                                             
+El Tiempo                                                    Microsoft.BingWeather_8wekyb3d8bbwe!App                                                                                               
+Enlace M?vil                                                 Microsoft.YourPhone_8wekyb3d8bbwe!App                                                                                                 
+Xbox Game Bar                                                Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App                                                                                         
+Microsoft Store                                              Microsoft.WindowsStore_8wekyb3d8bbwe!App                                                                                              
+Skype                                                        Microsoft.SkypeApp_kzf8qxf38zg5c!App                                                                                                  
+
+
